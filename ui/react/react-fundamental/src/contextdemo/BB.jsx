@@ -1,8 +1,6 @@
 import CC from './CC'
 function BB(){
-  function cChildBtnCLickHndlr(){
-    console.log("Event uplift from B");
-  }
+
   return (
     <>
       <div>

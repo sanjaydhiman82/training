@@ -3,3 +3,8 @@ export function increment() {
        type: 'INCREMENT'
     }
  }
+ export function decrease() {
+   return {
+      type: 'DECREMENT'
+   }
+}

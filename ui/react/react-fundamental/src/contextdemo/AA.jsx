@@ -1,8 +1,6 @@
 import BB from './BB'
 function AA(){
-    function bChildBtnClickHandler(){
-        console.log("Event uplift from AA");
-    }
+
   return (
     <>
       <div>

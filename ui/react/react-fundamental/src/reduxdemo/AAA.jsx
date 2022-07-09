@@ -1,8 +1,6 @@
 import BBB from './BBB'
 function AAA(){
-    function bChildBtnClickHandler(){
-        console.log("Event uplift from AA");
-    }
+
   return (
     <>
       <div>

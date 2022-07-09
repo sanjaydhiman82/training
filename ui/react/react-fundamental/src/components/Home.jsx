@@ -23,6 +23,9 @@ const Home = () => {
             <Link to="/reduxstate">React state management by Redux </Link>
           </li>
           <li>
+            <Link to="/axiosdemo">Axios demo </Link>
+          </li>
+          <li>
             <Link to="/">back</Link>
           </li>
         </ul>

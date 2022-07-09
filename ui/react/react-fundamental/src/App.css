@@ -19,8 +19,7 @@
 }
 .buttonClzz{
   background-color: blueviolet;
-  margin-right: 20px;
-  margin-left: 20px;
+  margin: 10px 10px 10px 10px;
   height:50px;
   color: white;
   font-weight:bolder;
