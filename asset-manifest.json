@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/sanjaydhiman82/training/tree/master/ui/react/react-fundamental/static/css/main.b8209aa0.css",
-    "main.js": "/sanjaydhiman82/training/tree/master/ui/react/react-fundamental/static/js/main.c132f1db.js",
-    "static/js/787.11ddce29.chunk.js": "/sanjaydhiman82/training/tree/master/ui/react/react-fundamental/static/js/787.11ddce29.chunk.js",
-    "static/media/lifecycle.jpeg": "/sanjaydhiman82/training/tree/master/ui/react/react-fundamental/static/media/lifecycle.f9d240d4c2a590836c2c.jpeg",
-    "static/media/hook.jpg": "/sanjaydhiman82/training/tree/master/ui/react/react-fundamental/static/media/hook.a607814181516a7c91cc.jpg",
-    "index.html": "/sanjaydhiman82/training/tree/master/ui/react/react-fundamental/index.html",
-    "main.b8209aa0.css.map": "/sanjaydhiman82/training/tree/master/ui/react/react-fundamental/static/css/main.b8209aa0.css.map",
-    "main.c132f1db.js.map": "/sanjaydhiman82/training/tree/master/ui/react/react-fundamental/static/js/main.c132f1db.js.map",
-    "787.11ddce29.chunk.js.map": "/sanjaydhiman82/training/tree/master/ui/react/react-fundamental/static/js/787.11ddce29.chunk.js.map"
+    "main.css": "/sanjaydhiman82/training/static/css/main.b8209aa0.css",
+    "main.js": "/sanjaydhiman82/training/static/js/main.c048b606.js",
+    "static/js/787.11ddce29.chunk.js": "/sanjaydhiman82/training/static/js/787.11ddce29.chunk.js",
+    "static/media/lifecycle.jpeg": "/sanjaydhiman82/training/static/media/lifecycle.f9d240d4c2a590836c2c.jpeg",
+    "static/media/hook.jpg": "/sanjaydhiman82/training/static/media/hook.a607814181516a7c91cc.jpg",
+    "index.html": "/sanjaydhiman82/training/index.html",
+    "main.b8209aa0.css.map": "/sanjaydhiman82/training/static/css/main.b8209aa0.css.map",
+    "main.c048b606.js.map": "/sanjaydhiman82/training/static/js/main.c048b606.js.map",
+    "787.11ddce29.chunk.js.map": "/sanjaydhiman82/training/static/js/787.11ddce29.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b8209aa0.css",
-    "static/js/main.c132f1db.js"
+    "static/js/main.c048b606.js"
   ]
 }
