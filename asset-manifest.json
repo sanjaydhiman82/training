@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/sanjaydhiman82/training/static/css/main.72467363.css",
-    "main.js": "/sanjaydhiman82/training/static/js/main.d9712438.js",
-    "static/js/787.11ddce29.chunk.js": "/sanjaydhiman82/training/static/js/787.11ddce29.chunk.js",
-    "static/media/redux.gif": "/sanjaydhiman82/training/static/media/redux.49fa8c3968371d9ef6f2.gif",
-    "static/media/lifecycle.jpeg": "/sanjaydhiman82/training/static/media/lifecycle.f9d240d4c2a590836c2c.jpeg",
-    "static/media/hook.jpg": "/sanjaydhiman82/training/static/media/hook.a607814181516a7c91cc.jpg",
-    "static/media/context.jpg": "/sanjaydhiman82/training/static/media/context.b1f0aed24860ff5f3491.jpg",
-    "static/media/props.jpg": "/sanjaydhiman82/training/static/media/props.a0e18721a50de194d012.jpg",
-    "index.html": "/sanjaydhiman82/training/index.html",
-    "main.72467363.css.map": "/sanjaydhiman82/training/static/css/main.72467363.css.map",
-    "main.d9712438.js.map": "/sanjaydhiman82/training/static/js/main.d9712438.js.map",
-    "787.11ddce29.chunk.js.map": "/sanjaydhiman82/training/static/js/787.11ddce29.chunk.js.map"
+    "main.css": "/static/css/main.72467363.css",
+    "main.js": "/static/js/main.d61478ee.js",
+    "static/js/787.11ddce29.chunk.js": "/static/js/787.11ddce29.chunk.js",
+    "static/media/redux.gif": "/static/media/redux.49fa8c3968371d9ef6f2.gif",
+    "static/media/lifecycle.jpeg": "/static/media/lifecycle.f9d240d4c2a590836c2c.jpeg",
+    "static/media/hook.jpg": "/static/media/hook.a607814181516a7c91cc.jpg",
+    "static/media/context.jpg": "/static/media/context.b1f0aed24860ff5f3491.jpg",
+    "static/media/props.jpg": "/static/media/props.a0e18721a50de194d012.jpg",
+    "index.html": "/index.html",
+    "main.72467363.css.map": "/static/css/main.72467363.css.map",
+    "main.d61478ee.js.map": "/static/js/main.d61478ee.js.map",
+    "787.11ddce29.chunk.js.map": "/static/js/787.11ddce29.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72467363.css",
-    "static/js/main.d9712438.js"
+    "static/js/main.d61478ee.js"
   ]
 }
